@@ -14,7 +14,7 @@
         <title>Version 1.0.6</title>
         <description>Update to version 1.0.6 with improvements and bug fixes.</description>
         <pubDate>Sun, 05 Aug 2024 15:20:11 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App_1.0.6.zip" sparkle:version="1.0.6" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App_1.0.6.zip" sparkle:version="1.0.7" />
     </item>
     <!-- A release testing minimumSystemVersion -->
 <!--     <item>
