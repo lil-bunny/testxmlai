@@ -42,7 +42,7 @@
     <item>
         <title>Version 5.0</title>
         <sparkle:version>5.0</sparkle:version>
-        <sparkle:minimumAutoupdateVersion>1.7.0</sparkle:minimumAutoupdateVersion>
+        <sparkle:minimumAutoupdateVersion>1.0.6</sparkle:minimumAutoupdateVersion>
     </item>
   </channel>
 </rss>
