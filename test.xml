@@ -2,7 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>For unit test only</title>
-
+    <item>
+        <title>Version 1.0.8</title>
+        <description>Minor updates and improvements.</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.8" sparkle:os="android" />
+        <sparkle:minimumSystemVersion>1.0.8</sparkle:minimumSystemVersion>
+    </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
         <title>Version 1.0</title>
