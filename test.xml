@@ -10,7 +10,7 @@
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
-    <item>
+<!--     <item>
         <title>Version 3.0</title>
         <description>Minor updates and improvements.</description>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
@@ -29,7 +29,7 @@
             type="application/octet-stream"
             sparkle:edSignature="..." />
         </sparkle:deltas>
-    </item>
+    </item> -->
     <!-- A release testing minimumSystemVersion -->
     <item>
         <title>Version 4.0</title>
