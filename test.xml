@@ -40,8 +40,9 @@
     </item>
     <!-- A release testing maximumSystemVersion -->
     <item>
-        <title>Version 15.0</title>
-        <sparkle:version>15.0</sparkle:version>
+        <title>Version 16.0</title>
+        <sparkle:version>16.0</sparkle:version>
+        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
         <sparkle:maximumSystemVersion>1.0.6</sparkle:maximumSystemVersion>
     </item>
   </channel>
